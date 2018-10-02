@@ -1,2 +1,1 @@
-# asterisk
-Install and configure asterisk
+# Install and configure asterisk
